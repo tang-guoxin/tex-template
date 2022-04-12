@@ -1,0 +1,215 @@
+{
+    "root": {
+        "data": {
+            "id": "cj70sg5t6w80",
+            "created": 1649640605541,
+            "text": "强化学习算法"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cj70td0xpc00",
+                    "created": 1649640677080,
+                    "text": "基于模型",
+                    "layout_mind_offset": {
+                        "x": -86.00000109275186,
+                        "y": 0.1666666004393278
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cj71y10dkr40",
+                            "created": 1649643863856,
+                            "text": "基于价值",
+                            "layout_right_offset": {
+                                "x": -9.500000198682415,
+                                "y": 15.999994834264243
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cj71yjt9fiw0",
+                                    "created": 1649643904784,
+                                    "text": "SARSA"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cj71yoqg7zs0",
+                                    "created": 1649643915498,
+                                    "text": "Q-Learning"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cj71ytvoecg0",
+                                    "created": 1649643926698,
+                                    "text": "DQN"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cj71y95jyso0",
+                            "created": 1649643881583,
+                            "text": "基于策略",
+                            "layout_right_offset": {
+                                "x": -10.333333399560956,
+                                "y": 219.33332753843763
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cj71znzeg880",
+                                    "created": 1649643992227,
+                                    "text": "Policy Gradient"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cj71zvzkke00",
+                                    "created": 1649644009651,
+                                    "text": "TPRO/PPO"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cj7200molf40",
+                                    "created": 1649644019756,
+                                    "text": "ACKTR"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cj720g1vl400",
+                                    "created": 1649644053326,
+                                    "text": "SAMUEL"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cj720z33k1s0",
+                                    "created": 1649644094759,
+                                    "text": "交叉熵方法"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cj71zdnd3vk0",
+                            "created": 1649643969731,
+                            "text": "基于价值和策略",
+                            "layout_right_offset": {
+                                "x": -33.6666659050519,
+                                "y": -235.66667305760882
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cj7208348dk0",
+                                    "created": 1649644035987,
+                                    "text": "AC/A2C/A3C"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cj720nfk2zk0",
+                                    "created": 1649644069391,
+                                    "text": "QT-Opt"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cj721aj9h7s0",
+                                    "created": 1649644119681,
+                                    "text": "DDPG"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cj721gnxnc00",
+                                    "created": 1649644133024,
+                                    "text": "TD3"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cj71w21kkio0",
+                    "created": 1649643709376,
+                    "text": "无模型",
+                    "layout_mind_offset": {
+                        "x": 86.33333429363034,
+                        "y": -1.1666666997803077
+                    }
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cj71wv0kuf40",
+                            "created": 1649643772443,
+                            "text": "I2A",
+                            "layout_left_offset": {
+                                "x": -7.499999701976776,
+                                "y": -19.16666699780353
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cj71wiw3p4g0",
+                            "created": 1649643746051,
+                            "text": "AlphaGo"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cj71x4y8oow0",
+                            "created": 1649643794069,
+                            "text": "MuZero"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cj71wzlk2co0",
+                            "created": 1649643782419,
+                            "text": "World Model",
+                            "layout_left_offset": {
+                                "x": 13.500000298023167,
+                                "y": 26.166666898462495
+                            }
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-green",
+    "version": "1.4.43"
+}
